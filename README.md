@@ -1,1 +1,1 @@
-this is my first repository and its dope
+Am updating my repository README.md file
